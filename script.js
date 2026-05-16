@@ -2,8 +2,7 @@ let mode = "";
 
 const sounds = {
     scp: [
-        "alarm.mp3",
-        "breach.mp3"
+        "multiplecbreaches.mp3"
     ],
     mtf: [
         "hammerdownnu7entry.mp3",
