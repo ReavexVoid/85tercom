@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>SCP / MTF INTERCOM</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <h1>INTERCOM SYSTEM</h1>
+
+    <div class="panel">
+        <button onclick="setMode('scp')">SCP</button>
+        <button onclick="setMode('mtf')">MTF</button>
+    </div>
+
+    <h2 id="modeTitle">Select faction</h2>
+
+    <div id="list"></div>
+
+    <audio id="player" controls></audio>
+
+    <script src="script.js"></script>
+</body>
+</html>
