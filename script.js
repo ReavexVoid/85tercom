@@ -8,7 +8,8 @@ const sounds = {
         "hammerdownnu7entry.mp3",
         "mazhatbeta7entry.mp3",
         "ntfepsilon11entry.mp3",
-        "rrhalpha1entry.mp3"
+        "rrhalpha1entry.mp3",
+        "chaoshack.mp3"
     ]
 };
 
